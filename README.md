@@ -1,20 +1,20 @@
-# DHF Agent - AI-Driven Automated Web Agent
+# DHF Bee Agent - AI-Driven Automated Web Agent
 
 [English](README.md) | [简体中文](README_CN.md) | [日本語](README_JA.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [한국어](README_KO.md)
 
-![DHF Agent Logo](icon.png)
+![DHF Bee Agent Logo](icon.png)
 
 **Next-generation AI-driven intelligent process automation platform that intelligently understands and executes your business processes.**
 
-[Download DHF Agent](https://dhf.pub/) | [Key Features](#-key-features) | [Who is this for](#-who-is-this-for) | [MCP Ecosystem](#-mcp-ecosystem-interconnection)
+[Download DHF Bee Agent](https://dhf.pub/) | [Key Features](#-key-features) | [Who is this for](#-who-is-this-for) | [MCP Ecosystem](#-mcp-ecosystem-interconnection)
 
 ---
 
 ## 🚀 Introduction
 
-**DHF Agent** is a revolutionary browser RPA (Robotic Process Automation) tool. It uses advanced AI technology to understand web pages and help users build automated workflows.
+**DHF Bee Agent** is a revolutionary browser RPA (Robotic Process Automation) tool. It uses advanced AI technology to understand web pages and help users build automated workflows.
 
-Unlike other AI Agents, DHF Agent adopts an **"AI Generated, Locally Run"** model. Once a workflow is built, it transforms into efficient fixed-code execution, **no longer consuming Tokens**, ensuring both execution accuracy and zero-cost operation. Whether you are a white-collar worker looking to escape repetitive labor, or a developer seeking efficient Web interfaces, DHF Agent is your best partner.
+Unlike other AI Agents, DHF Bee Agent adopts an **"AI Generated, Locally Run"** model. Once a workflow is built, it transforms into efficient fixed-code execution, **no longer consuming Tokens**, ensuring both execution accuracy and zero-cost operation. Whether you are a white-collar worker looking to escape repetitive labor, or a developer seeking efficient Web interfaces, DHF Bee Agent is your best partner.
 
 ---
 
@@ -35,19 +35,19 @@ We have tailored solutions for different groups:
 ### 3. 🦄 Solopreneurs & Independent Developers
 **One person is a team.**
 *   **Pain Point:** Lack of resources, high cost of hiring employees.
-*   **DHF Solution:** Create different DHF Agent roles (e.g., Customer Service Assistant, Social Media Operator, Finance Specialist). They are like your digital employees, completing their respective web tasks independently in the background, keeping your business running 24/7.
+*   **DHF Solution:** Create different DHF Bee Agent roles (e.g., Customer Service Assistant, Social Media Operator, Finance Specialist). They are like your digital employees, completing their respective web tasks independently in the background, keeping your business running 24/7.
 
 ### 4. 🔗 MCP & OpenClaw Users (Ecosystem Users)
 **The super tentacle connecting everything.**
 *   **Pain Point:** Large models cannot precisely operate web pages, or the operation cost is too high.
-*   **DHF Solution:** Perfectly supports **MCP (Model Context Protocol)**. DHF Agent can be mounted as the "hand" of OpenClaw or other AI tools, converting natural language instructions into precise Playwright actions, greatly saving Tokens and improving operation success rates.
+*   **DHF Solution:** Perfectly supports **MCP (Model Context Protocol)**. DHF Bee Agent can be mounted as the "hand" of OpenClaw or other AI tools, converting natural language instructions into precise Playwright actions, greatly saving Tokens and improving operation success rates.
 
 ---
 
 ## ✨ Key Features
 
 ### ⚡ 10x Efficiency Boost
-Hand over tedious and repetitive Web operations to DHF Agent to achieve a 10x leap in efficiency. Let machines do machine things, and let humans do human things.
+Hand over tedious and repetitive Web operations to DHF Bee Agent to achieve a 10x leap in efficiency. Let machines do machine things, and let humans do human things.
 
 ### 🧠 AI-Driven & Assisted Debugging
 Say goodbye to tedious code. AI intelligently assists in generating and debugging workflows, allowing natural language to drive process construction. Automated development has never been easier; even if you don't know code, you can get started.
@@ -71,9 +71,9 @@ Built-in professional-grade Cron scheduling engine, supporting second-level timi
 
 ## 🛠️ Technical Integration (For Developers)
 
-DHF Agent is more than just a tool; it is an infrastructure.
+DHF Bee Agent is more than just a tool; it is an infrastructure.
 
-*   **As an MCP Server:** You can mount DHF Agent as an MCP Server for Cursor, Claude Desktop, or other AI Code tools. This gives your AI programming assistant the ability to directly operate real browsers.
+*   **As an MCP Server:** You can mount DHF Bee Agent as an MCP Server for Cursor, Claude Desktop, or other AI Code tools. This gives your AI programming assistant the ability to directly operate real browsers.
 *   **Playwright Converter:** It can precipitate unstable natural language intentions into stable Playwright scripts.
 *   **API Trigger:** Supports local API calls, easily integrating into your existing Python/Node.js projects.
 
@@ -89,7 +89,7 @@ Supports Windows, macOS, and Linux.
 
 ## 🚀 Quick Start
 
-1.  **Download and Install** DHF Agent.
+1.  **Download and Install** DHF Bee Agent.
 2.  **Create Task**: Click "New Task" and enter the target URL.
 3.  **AI Recording**: Tell the AI in the dialog box "Help me log in and download the latest order Excel", and the AI will automatically generate the steps.
 4.  **Save and Run**: Confirm the steps are correct and save the task. Set a timer, and it will automatically work for you in the future.
@@ -102,6 +102,6 @@ Supports Windows, macOS, and Linux.
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---

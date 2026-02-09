@@ -1,18 +1,18 @@
-# DHF Agent - AI 기반 자동화 웹 에이전트
+# DHF Bee Agent - AI 기반 자동화 웹 에이전트
 
 [English](README.md) | [简体中文](README_CN.md) | [日本語](README_JA.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [한국어](README_KO.md)
 
-![DHF Agent Logo](icon.png)
+![DHF Bee Agent Logo](icon.png)
 
 **비즈니스 프로세스를 지능적으로 이해하고 실행하는 차세대 AI 기반 지능형 프로세스 자동화 플랫폼입니다.**
 
-[DHF Agent 다운로드](https://dhf.pub/) | [주요 기능](#-주요-기능--key-features) | [적용 대상](#-왜-dhf-agent를-선택해야-하나요--who-is-this-for) | [MCP 생태계](#-mcp-생태계-상호-연동)
+[DHF Bee Agent 다운로드](https://dhf.pub/) | [주요 기능](#-주요-기능--key-features) | [적용 대상](#-왜-dhf-agent를-선택해야-하나요--who-is-this-for) | [MCP 생태계](#-mcp-생태계-상호-연동)
 
 ---
 
 ## 🚀 소개 | Introduction
 
-**DHF Agent**는 혁신적인 브라우저 RPA(로봇 프로세스 자동화) 도구입니다. 고급 AI 기술을 사용하여 웹 페이지를 이해하고 사용자가 자동화된 워크플로우를 구축하도록 돕습니다.
+**DHF Bee Agent**는 혁신적인 브라우저 RPA(로봇 프로세스 자동화) 도구입니다. 고급 AI 기술을 사용하여 웹 페이지를 이해하고 사용자가 자동화된 워크플로우를 구축하도록 돕습니다.
 
 다른 AI 에이전트와 달리 DHF Agent는 **"AI 생성, 로컬 실행"** 모델을 채택합니다. 워크플로우가 구축되면 효율적인 고정 코드 실행으로 변환되어 **토큰을 더 이상 소비하지 않으며**, 실행의 정확성을 보장하고 제로 비용 운영을 실현합니다. 반복적인 노동에서 벗어나고 싶은 직장인이든 효율적인 웹 인터페이스를 찾는 개발자이든 DHF Agent는 최고의 파트너입니다.
 
@@ -35,7 +35,7 @@
 ### 3. 🦄 1인 기업 및 독립 개발자 (Solopreneurs)
 **한 사람이 하나의 팀입니다.**
 *   **문제점:** 자원 부족, 직원 고용 비용 부담.
-*   **DHF 솔루션:** 다양한 DHF Agent 역할(예: 고객 서비스 지원, 소셜 미디어 운영, 재무 전문가)을 만듭니다. 그들은 디지털 직원처럼 백그라운드에서 각자의 웹 작업을 독립적으로 완료하여 비즈니스가 24/7 운영되도록 합니다.
+*   **DHF 솔루션:** 다양한 DHF Bee Agent 역할(예: 고객 서비스 지원, 소셜 미디어 운영, 재무 전문가)을 만듭니다. 그들은 디지털 직원처럼 백그라운드에서 각자의 웹 작업을 독립적으로 완료하여 비즈니스가 24/7 운영되도록 합니다.
 
 ### 4. 🔗 MCP 및 OpenClaw 사용자 (Ecosystem Users)
 **모든 것을 연결하는 슈퍼 촉수.**
@@ -102,6 +102,6 @@ Windows, macOS 및 Linux를 지원합니다.
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---

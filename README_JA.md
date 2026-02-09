@@ -1,8 +1,8 @@
-# DHF Agent - AI駆動型Web自動化エージェント
+# DHF Bee Agent - AI駆動型Web自動化エージェント
 
 [English](README.md) | [简体中文](README_CN.md) | [日本語](README_JA.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [한국어](README_KO.md)
 
-![DHF Agent Logo](icon.png)
+![DHF Bee Agent Logo](icon.png)
 
 **次世代のAI駆動型インテリジェントプロセス自動化プラットフォーム。あなたのビジネスプロセスをインテリジェントに理解し、実行します。**
 
@@ -12,13 +12,13 @@
 
 ## 🚀 はじめに | Introduction
 
-**DHF Agent** は、革新的なブラウザRPA（ロボティック・プロセス・オートメーション）ツールです。最新のAI技術を活用してWebページを理解し、ユーザーが自動化ワークフローを構築するのを支援します。
+**DHF Bee Agent** は、革新的なブラウザRPA（ロボティック・プロセス・オートメーション）ツールです。最新のAI技術を活用してWebページを理解し、ユーザーが自動化ワークフローを構築するのを支援します。
 
 他のAIエージェントとは異なり、DHF Agentは **「AI生成、ローカル実行」** モデルを採用しています。ワークフローが一度構築されると、効率的な固定コード実行に変換され、**トークンを消費することはありません**。これにより、実行の正確性が保証されるだけでなく、ゼロコストでの運用が実現します。反復作業から解放されたいオフィスワーカーであれ、効率的なWebインターフェースを求める開発者であれ、DHF Agentはあなたの最高のパートナーとなります。
 
 ---
 
-## 🎯 なぜ DHF Agent を選ぶのか？ | Who is this for?
+## 🎯 なぜ DHF Bee Agent を選ぶのか？ | Who is this for?
 
 私たちはさまざまなユーザー向けにソリューションを最適化しました：
 
@@ -102,6 +102,6 @@ Windows、macOS、Linuxをサポートしています。
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---

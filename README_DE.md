@@ -1,24 +1,24 @@
-# DHF Agent - KI-gesteuerter automatisierter Web-Agent
+# DHF Bee Agent - KI-gesteuerter automatisierter Web-Agent
 
 [English](README.md) | [简体中文](README_CN.md) | [日本語](README_JA.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [한국어](README_KO.md)
 
-![DHF Agent Logo](icon.png)
+![DHF Bee Agent Logo](icon.png)
 
 **Die KI-gesteuerte Plattform der nächsten Generation für intelligente Prozessautomatisierung, die Ihre Geschäftsprozesse intelligent versteht und ausführt.**
 
-[DHF Agent herunterladen](https://dhf.pub/) | [Hauptfunktionen](#-hauptfunktionen--key-features) | [Für wen ist das?](#-für-wen-ist-dfl-agent-geeignet--who-is-this-for) | [MCP-Ökosystem](#-mcp-ökosystem-verbindung)
+[DHF Bee Agent herunterladen](https://dhf.pub/) | [Hauptfunktionen](#-hauptfunktionen--key-features) | [Für wen ist das?](#-für-wen-ist-dfl-agent-geeignet--who-is-this-for) | [MCP-Ökosystem](#-mcp-ökosystem-verbindung)
 
 ---
 
 ## 🚀 Einführung | Introduction
 
-**DHF Agent** ist ein revolutionäres Browser-RPA-Tool (Robotic Process Automation). Es nutzt fortschrittliche KI-Technologie, um Webseiten zu verstehen und Benutzern beim Aufbau automatisierter Workflows zu helfen.
+**DHF Bee Agent** ist ein revolutionäres Browser-RPA-Tool (Robotic Process Automation). Es nutzt fortschrittliche KI-Technologie, um Webseiten zu verstehen und Benutzern beim Aufbau automatisierter Workflows zu helfen.
 
-Im Gegensatz zu anderen KI-Agenten verwendet DHF Agent ein Modell der **"KI-Generierung, lokalen Ausführung"**. Sobald ein Workflow erstellt ist, wird er in eine effiziente Festcode-Ausführung umgewandelt, die **keine Token mehr verbraucht**. Dies gewährleistet sowohl die Genauigkeit der Ausführung als auch einen Betrieb ohne Kosten. Egal, ob Sie ein Büroangestellter sind, der sich wiederholende Arbeit vermeiden möchte, oder ein Entwickler, der effiziente Web-Schnittstellen sucht, DHF Agent ist Ihr bester Partner.
+Im Gegensatz zu anderen KI-Agenten verwendet DHF Bee Agent ein Modell der **"KI-Generierung, lokalen Ausführung"**. Sobald ein Workflow erstellt ist, wird er in eine effiziente Festcode-Ausführung umgewandelt, die **keine Token mehr verbraucht**. Dies gewährleistet sowohl die Genauigkeit der Ausführung als auch einen Betrieb ohne Kosten. Egal, ob Sie ein Büroangestellter sind, der sich wiederholende Arbeit vermeiden möchte, oder ein Entwickler, der effiziente Web-Schnittstellen sucht, DHF Bee Agent ist Ihr bester Partner.
 
 ---
 
-## 🎯 Für wen ist DHF Agent geeignet? | Who is this for?
+## 🎯 Für wen ist DHF Bee Agent geeignet? | Who is this for?
 
 Wir haben maßgeschneiderte Lösungen für verschiedene Gruppen:
 
@@ -40,14 +40,14 @@ Wir haben maßgeschneiderte Lösungen für verschiedene Gruppen:
 ### 4. 🔗 MCP & OpenClaw Benutzer (Ecosystem Users)
 **Der Super-Tentakel, der alles verbindet.**
 *   **Problem:** Große Modelle können Webseiten nicht präzise bedienen, oder die Betriebskosten sind zu hoch.
-*   **DHF-Lösung:** Unterstützt perfekt das **MCP (Model Context Protocol)**. DHF Agent kann als "Hand" von OpenClaw oder anderen KI-Tools eingebunden werden und natürliche Sprachanweisungen in präzise Playwright-Aktionen umwandeln, was Token spart und die Erfolgsquote der Operationen erheblich verbessert.
+*   **DHF-Lösung:** Unterstützt perfekt das **MCP (Model Context Protocol)**. DHF Bee Agent kann als "Hand" von OpenClaw oder anderen KI-Tools eingebunden werden und natürliche Sprachanweisungen in präzise Playwright-Aktionen umwandeln, was Token spart und die Erfolgsquote der Operationen erheblich verbessert.
 
 ---
 
 ## ✨ Hauptfunktionen | Key Features
 
 ### ⚡ 10-fache Effizienzsteigerung
-Übergeben Sie mühsame und wiederholende Web-Operationen an DHF Agent, um einen 10-fachen Effizienzsprung zu erzielen. Lassen Sie Maschinen Maschinensachen machen und Menschen Menschensachen.
+Übergeben Sie mühsame und wiederholende Web-Operationen an DHF Bee Agent, um einen 10-fachen Effizienzsprung zu erzielen. Lassen Sie Maschinen Maschinensachen machen und Menschen Menschensachen.
 
 ### 🧠 KI-gesteuertes & unterstütztes Debugging
 Verabschieden Sie sich von mühsamem Code. KI unterstützt intelligent bei der Erstellung und Fehlerbehebung von Workflows, sodass natürliche Sprache den Prozessaufbau steuern kann. Automatisierte Entwicklung war noch nie so einfach; selbst wenn Sie keinen Code verstehen, können Sie loslegen.
@@ -71,9 +71,9 @@ Eingebaute professionelle Cron-Planungs-Engine, die eine sekundengenaue Zeitkonf
 
 ## 🛠️ Technische Integration (For Developers)
 
-DHF Agent ist mehr als nur ein Werkzeug; es ist eine Infrastruktur.
+DHF Bee Agent ist mehr als nur ein Werkzeug; es ist eine Infrastruktur.
 
-*   **Als MCP-Server:** Sie können DHF Agent als MCP-Server für Cursor, Claude Desktop oder andere KI-Code-Tools einbinden. Dies gibt Ihrem KI-Programmierassistenten die Fähigkeit, echte Browser direkt zu bedienen.
+*   **Als MCP-Server:** Sie können DHF Bee Agent als MCP-Server für Cursor, Claude Desktop oder andere KI-Code-Tools einbinden. Dies gibt Ihrem KI-Programmierassistenten die Fähigkeit, echte Browser direkt zu bedienen.
 *   **Playwright-Konverter:** Er kann instabile natürliche Sprachabsichten in stabile Playwright-Skripte umwandeln.
 *   **API-Trigger:** Unterstützt lokale API-Aufrufe zur einfachen Integration in Ihre vorhandenen Python/Node.js-Projekte.
 
@@ -89,7 +89,7 @@ Unterstützt Windows, macOS und Linux.
 
 ## 🚀 Schnellstart | Quick Start
 
-1.  **Herunterladen und Installieren** Sie DHF Agent.
+1.  **Herunterladen und Installieren** Sie DHF Bee Agent.
 2.  **Aufgabe erstellen**: Klicken Sie auf "Neue Aufgabe" und geben Sie die Ziel-URL ein.
 3.  **KI-Aufzeichnung**: Sagen Sie der KI im Dialogfeld "Hilf mir beim Einloggen und lade die neueste Bestell-Excel herunter", und die KI generiert automatisch die Schritte.
 4.  **Speichern und Ausführen**: Bestätigen Sie, dass die Schritte korrekt sind, und speichern Sie die Aufgabe. Stellen Sie einen Timer ein, und es wird in Zukunft automatisch für Sie arbeiten.
@@ -102,6 +102,6 @@ Unterstützt Windows, macOS und Linux.
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---

@@ -1,6 +1,6 @@
-# DHF Agent - AI 驱动的自动化 Web 代理
+# DHF Bee Agent - AI 驱动的自动化 Web 代理
 
-![DHF Agent Logo](icon.png)
+![DHF Bee Agent Logo](icon.png)
 
 **下一代 AI 驱动的智能流程自动化平台，智能理解并执行您的业务流程。**
 
@@ -10,13 +10,13 @@
 
 ## 🚀 简介 | Introduction
 
-**DHF Agent** 是一款革命性的浏览器 RPA（机器人流程自动化）工具。它利用先进的 AI 技术来理解网页，帮助用户构建自动化工作流。
+**DHF Bee Agent** 是一款革命性的浏览器 RPA（机器人流程自动化）工具。它利用先进的 AI 技术来理解网页，帮助用户构建自动化工作流。
 
-与其他 AI Agent 不同的是，DHF Agent 采用 **"AI 生成，本地运行"** 的模式。一旦工作流构建完成，它将转变为高效的固定代码运行，**不再消耗 Token**，既保证了执行的准确性，又实现了零成本运行。无论你是希望摆脱重复劳动的白领，还是寻求高效 Web 接口的开发者，DHF Agent 都是你的最佳伙伴。
+与其他 AI Agent 不同的是，DHF Bee Agent 采用 **"AI 生成，本地运行"** 的模式。一旦工作流构建完成，它将转变为高效的固定代码运行，**不再消耗 Token**，既保证了执行的准确性，又实现了零成本运行。无论你是希望摆脱重复劳动的白领，还是寻求高效 Web 接口的开发者，DHF Bee Agent 都是你的最佳伙伴。
 
 ---
 
-## 🎯 为什么选择 DHF Agent？ | Who is this for?
+## 🎯 为什么选择 DHF Bee Agent？ | Who is this for?
 
 我们为不同的人群量身定制了解决方案：
 
@@ -33,19 +33,19 @@
 ### 3. 🦄 一人公司 & 独立开发者 (Solopreneurs)
 **一个人就是一支队伍。**
 *   **痛点：** 分身乏术，雇佣员工成本高。
-*   **DHF 方案：** 创建不同的 DHF Agent 角色（如：客服助理、社媒运营、财务专员）。它们就像你的数字员工，并在后台独立完成各自的网页工作，让你的业务 24/7 运转。
+*   **DHF 方案：** 创建不同的 DHF Bee Agent 角色（如：客服助理、社媒运营、财务专员）。它们就像你的数字员工，并在后台独立完成各自的网页工作，让你的业务 24/7 运转。
 
 ### 4. 🔗 MCP & OpenClaw 用户 (Ecosystem Users)
 **连接一切的超级触手。**
 *   **痛点：** 大模型无法精准操作网页，或者操作成本过高。
-*   **DHF 方案：** 完美支持 **MCP (Model Context Protocol)**。DHF Agent 可以挂载为 OpenClaw 或其他 AI 工具的 "手"，将自然语言指令转化为精准的 Playwright 动作，极大节省 Token 并提升操作成功率。
+*   **DHF 方案：** 完美支持 **MCP (Model Context Protocol)**。DHF Bee Agent 可以挂载为 OpenClaw 或其他 AI 工具的 "手"，将自然语言指令转化为精准的 Playwright 动作，极大节省 Token 并提升操作成功率。
 
 ---
 
 ## ✨ 核心特性 | Key Features
 
 ### ⚡ 10 倍效率提升
-将繁琐重复的 Web 操作交给 DHF Agent，实现效率的 10 倍飞跃。让机器做机器的事，让人做人的事。
+将繁琐重复的 Web 操作交给 DHF Bee Agent，实现效率的 10 倍飞跃。让机器做机器的事，让人做人的事。
 
 ### 🧠 AI 驱动与辅助调试
 告别繁琐代码。AI 智能辅助生成和调试工作流，让自然语言驱动流程构建。自动化开发从未如此简单，即使不懂代码也能上手。
@@ -69,9 +69,9 @@
 
 ## 🛠️ 技术集成 (For Developers)
 
-DHF Agent 不仅仅是一个工具，更是一个基础设施。
+DHF Bee Agent 不仅仅是一个工具，更是一个基础设施。
 
-*   **作为 MCP Server:**  可以将 DHF Agent 挂载为 Cursor、Claude Desktop 或其他 AI Code 工具的 MCP Server。这使得您的 AI 编程助手具备了直接操作真实浏览器的能力。
+*   **作为 MCP Server:**  可以将 DHF Bee Agent 挂载为 Cursor、Claude Desktop 或其他 AI Code 工具的 MCP Server。这使得您的 AI 编程助手具备了直接操作真实浏览器的能力。
 *   **Playwright 转换器:** 它可以将不稳定的自然语言意图，沉淀为稳定的 Playwright 脚本。
 *   **API 触发:** 支持本地 API 调用，轻松集成到您现有的 Python/Node.js 项目中。
 
@@ -87,7 +87,7 @@ DHF Agent 不仅仅是一个工具，更是一个基础设施。
 
 ## 🚀 快速开始 | Quick Start
 
-1.  **下载并安装** DHF Agent。
+1.  **下载并安装** DHF Bee Agent。
 2.  **创建任务**：点击 "新建任务"，输入目标网址。
 3.  **AI 录制**：在对话框中告诉 AI "帮我登录，并下载最近的订单Excel"，AI 将自动生成步骤。
 4.  **保存并运行**：确认步骤无误，保存任务。设置定时器，以后它将自动为您工作。
@@ -100,6 +100,6 @@ DHF Agent 不仅仅是一个工具，更是一个基础设施。
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---

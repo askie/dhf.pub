@@ -1,24 +1,24 @@
-# DHF Agent - Agent Web automatisé piloté par l'IA
+# DHF Bee Agent - Agent Web automatisé piloté par l'IA
 
 [English](README.md) | [简体中文](README_CN.md) | [日本語](README_JA.md) | [Deutsch](README_DE.md) | [Français](README_FR.md) | [Español](README_ES.md) | [Português](README_PT.md) | [Русский](README_RU.md) | [한국어](README_KO.md)
 
-![Logo DHF Agent](icon.png)
+![Logo DHF Bee Agent](icon.png)
 
 **La plateforme d'automatisation intelligente des processus de nouvelle génération pilotée par l'IA, qui comprend et exécute intelligemment vos processus métier.**
 
-[Télécharger DHF Agent](https://dhf.pub/) | [Fonctionnalités clés](#-fonctionnalités-clés--key-features) | [Pour qui ?](#-pourquoi-choisir-dhf-agent--who-is-this-for) | [Écosystème MCP](#-connexion-à-lécosystème-mcp)
+[Télécharger DHF Bee Agent](https://dhf.pub/) | [Fonctionnalités clés](#-fonctionnalités-clés--key-features) | [Pour qui ?](#-pourquoi-choisir-dhf-agent--who-is-this-for) | [Écosystème MCP](#-connexion-à-lécosystème-mcp)
 
 ---
 
 ## 🚀 Introduction
 
-**DHF Agent** est un outil révolutionnaire de RPA (Robotic Process Automation) pour navigateur. Il utilise une technologie d'IA avancée pour comprendre les pages Web et aider les utilisateurs à créer des flux de travail automatisés.
+**DHF Bee Agent** est un outil révolutionnaire de RPA (Robotic Process Automation) pour navigateur. Il utilise une technologie d'IA avancée pour comprendre les pages Web et aider les utilisateurs à créer des flux de travail automatisés.
 
-Contrairement à d'autres agents d'IA, DHF Agent adopte un modèle **"Généré par l'IA, Exécuté localement"**. Une fois qu'un flux de travail est construit, il se transforme en une exécution de code fixe efficace, **ne consommant plus de jetons (Tokens)**, garantissant à la fois la précision de l'exécution et un fonctionnement sans coût. Que vous soyez un employé de bureau cherchant à échapper aux tâches répétitives ou un développeur à la recherche d'interfaces Web efficaces, DHF Agent est votre meilleur partenaire.
+Contrairement à d'autres agents d'IA, DHF Bee Agent adopte un modèle **"Généré par l'IA, Exécuté localement"**. Une fois qu'un flux de travail est construit, il se transforme en une exécution de code fixe efficace, **ne consommant plus de jetons (Tokens)**, garantissant à la fois la précision de l'exécution et un fonctionnement sans coût. Que vous soyez un employé de bureau cherchant à échapper aux tâches répétitives ou un développeur à la recherche d'interfaces Web efficaces, DHF Bee Agent est votre meilleur partenaire.
 
 ---
 
-## 🎯 Pourquoi choisir DHF Agent ? | Who is this for?
+## 🎯 Pourquoi choisir DHF Bee Agent ? | Who is this for?
 
 Nous avons des solutions sur mesure pour différents groupes :
 
@@ -40,14 +40,14 @@ Nous avons des solutions sur mesure pour différents groupes :
 ### 4. 🔗 Utilisateurs MCP et OpenClaw (Ecosystem Users)
 **Le super tentacule qui connecte tout.**
 *   **Problème :** Les grands modèles ne peuvent pas utiliser précisément les pages Web, ou le coût d'opération est trop élevé.
-*   **Solution DHF :** Prend parfaitement en charge le **MCP (Model Context Protocol)**. DHF Agent peut être monté comme la "main" d'OpenClaw ou d'autres outils d'IA, convertissant les instructions en langage naturel en actions Playwright précises, économisant considérablement les jetons et améliorant les taux de réussite des opérations.
+*   **Solution DHF :** Prend parfaitement en charge le **MCP (Model Context Protocol)**. DHF Bee Agent peut être monté comme la "main" d'OpenClaw ou d'autres outils d'IA, convertissant les instructions en langage naturel en actions Playwright précises, économisant considérablement les jetons et améliorant les taux de réussite des opérations.
 
 ---
 
 ## ✨ Fonctionnalités clés | Key Features
 
 ### ⚡ Amélioration de l'efficacité de 10x
-Confiez les opérations Web fastidieuses et répétitives à DHF Agent pour réaliser un bond de 10x en efficacité. Laissez les machines faire les tâches de machines et les humains faire les tâches humaines.
+Confiez les opérations Web fastidieuses et répétitives à DHF Bee Agent pour réaliser un bond de 10x en efficacité. Laissez les machines faire les tâches de machines et les humains faire les tâches humaines.
 
 ### 🧠 Piloté par l'IA et débogage assisté
 Dites adieu au code fastidieux. L'IA aide intelligemment à générer et à déboguer les flux de travail, permettant au langage naturel de piloter la construction des processus. Le développement automatisé n'a jamais été aussi simple ; même si vous ne connaissez pas le code, vous pouvez commencer.
@@ -71,9 +71,9 @@ Moteur de planification Cron de niveau professionnel intégré, prenant en charg
 
 ## 🛠️ Intégration technique (For Developers)
 
-DHF Agent est plus qu'un simple outil ; c'est une infrastructure.
+DHF Bee Agent est plus qu'un simple outil ; c'est une infrastructure.
 
-*   **En tant que serveur MCP :** Vous pouvez monter DHF Agent en tant que serveur MCP pour Cursor, Claude Desktop ou d'autres outils de code IA. Cela donne à votre assistant de programmation IA la possibilité d'utiliser directement de vrais navigateurs.
+*   **En tant que serveur MCP :** Vous pouvez monter DHF Bee Agent en tant que serveur MCP pour Cursor, Claude Desktop ou d'autres outils de code IA. Cela donne à votre assistant de programmation IA la possibilité d'utiliser directement de vrais navigateurs.
 *   **Convertisseur Playwright :** Il peut précipiter les intentions instables en langage naturel en scripts Playwright stables.
 *   **Déclencheur API :** Prend en charge les appels API locaux, s'intégrant facilement à vos projets Python/Node.js existants.
 
@@ -89,7 +89,7 @@ Prend en charge Windows, macOS et Linux.
 
 ## 🚀 Démarrage rapide | Quick Start
 
-1.  **Télécharger et installer** DHF Agent.
+1.  **Télécharger et installer** DHF Bee Agent.
 2.  **Créer une tâche** : Cliquez sur "Nouvelle tâche" et entrez l'URL cible.
 3.  **Enregistrement IA** : Dites à l'IA dans la boîte de dialogue "Aide-moi à me connecter et télécharge le dernier Excel de commande", et l'IA générera automatiquement les étapes.
 4.  **Enregistrer et exécuter** : Confirmez que les étapes sont correctes et enregistrez la tâche. Réglez une minuterie, et il travaillera automatiquement pour vous à l'avenir.
@@ -102,6 +102,6 @@ Prend en charge Windows, macOS et Linux.
 
 ---
 
-**DHF Agent** - Redefining Browser Automation with AI.
+**DHF Bee Agent** - Redefining Browser Automation with AI.
 
 ---
